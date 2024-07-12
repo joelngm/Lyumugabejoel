@@ -4,7 +4,7 @@
 <head>
   <title>Your Website Title</title>
   <style>
-    /* CSS styles for your website */
+    /* CSS styles for my website */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
