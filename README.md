@@ -52,7 +52,7 @@
         <li><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Services</a></li>
-        <li><a href="https://wa.me/1234567890?text=I%20want%20to%20contact%20you">Contact</a></li>
+        <li><a href="https://wa.me/+250730250487?text=I%20want%20to%20contact%20you">Contact</a></li>
       </ul>
     </nav>
     <main>
