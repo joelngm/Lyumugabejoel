@@ -45,7 +45,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>Welcome to Joel's web designing</h1>
+      <h1>Welcome to my page</h1>
     </header>
     <nav>
       <ul>
@@ -77,7 +77,7 @@
       </section>
     </main>
     <footer>
-      <p>&copy; 2023 joel's web designing. All rights reserved.</p>
+      <p>&copy; 2024 Lyumugabe Ngemanyi joel . All rights reserved.</p>
     </footer>
 
     
