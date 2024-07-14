@@ -40,6 +40,9 @@
     nav li a:hover {
       background-color: #111;
     }
+    section {
+      padding: 20px 0;
+    }
   </style>
 </head>
 <body>
@@ -49,38 +52,39 @@
     </header>
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
         <li><a href="https://wa.me/+250730250487?text=I%20want%20to%20contact%20you">Contact</a></li>
       </ul>
     </nav>
     <main>
-      <section>
-        <h2>About Us</h2>
-        <p>My name is Lyumugabe Joel;I live in Rwanda;i am a university student studying Business & information technology and i am here to help you.</p>
+      <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to my website. Here you will find information about my services and how to contact me.</p>
       </section>
-      <section>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>My name is Lyumugabe Joel; I live in Rwanda; I am a university student studying Business & Information Technology and I am here to help you.</p>
+      </section>
+      <section id="services">
         <h2>Our Services</h2>
         <ul>
-          <li>web development</li>
-          <li>web designing</li>
+          <li>Web development</li>
+          <li>Web designing</li>
         </ul>
       </section>
-      <section>
+      <section id="contact">
         <h2>Contact Us</h2>
         <p>You can reach us by clicking the link below:</p>
         <p><a href="https://wa.me/+250730250487?text=I%20want%20to%20contact%20you">Contact us via WhatsApp</a></p>
         <p><a href="mailto:lyumugabejoel@gmail.com">Contact via Email</a></p>
         <p><a href="https://www.instagram.com/joel_ngmy/">Contact via Instagram</a></p>
       </section>
-      </section>
     </main>
     <footer>
-      <p>&copy; 2024 Lyumugabe Ngemanyi joel . All rights reserved.</p>
+      <p>&copy; 2024 Lyumugabe Ngemanyi Joel. All rights reserved.</p>
     </footer>
-
-    
   </div>
 </body>
 </html>
